@@ -179,3 +179,4 @@ Vessel-Vision.Rproj
 *.csv
 *.xlsx
 
+py_scripts/data/ChinaCreek_ChinaCreekUnderwaterNetwork_Hydrophone_20240601T000000.000Z_20240615T000000.000Z-spect-concatenate.mat
