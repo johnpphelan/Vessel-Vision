@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 1
+names: ['objects']
+
+roboflow:
+  workspace: sara-alhld
+  project: my-first-project-s6swl
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/sara-alhld/my-first-project-s6swl/dataset/1
