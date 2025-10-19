@@ -175,3 +175,7 @@ split_images/
 tmg_seg/
 tmp_seg
 Vessel-Vision.Rproj
+*.jpg
+*.csv
+*.xlsx
+
